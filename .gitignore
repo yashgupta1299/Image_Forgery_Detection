@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+CASIA1/
+CASIA1_processed_data/
+CASIA2/
+CASIA2_processed_data/
+model_history/
+model_images/
